@@ -35,17 +35,11 @@ total amount = 9500
 rs 1000 was credited
 total amount = 10500
 
+#👩‍💻Author:
+Nikita Jadhav
 
 
 
 
 
 
-
-
-
-
-
-
-
-python 
